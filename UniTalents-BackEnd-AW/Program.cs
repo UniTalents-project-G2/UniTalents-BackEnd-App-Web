@@ -60,7 +60,7 @@ builder.Services.AddCors(options =>
     });
 });
 
-// 🔐 JWT
+// JWT
 var jwtSettings = builder.Configuration.GetSection("Jwt");
 var secretKey   = Encoding.UTF8.GetBytes(jwtSettings["Secret"]!);
 
