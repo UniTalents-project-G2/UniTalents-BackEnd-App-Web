@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {}
+    "C:\\Users\\Intel\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {
+    "C:\\Users\\Intel\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
         "projectName": "UniTalents-BackEnd-AW",
-        "projectPath": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
-        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\obj\\",
+        "projectPath": "C:\\Users\\Intel\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
+        "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Intel\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -104,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
