@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javie\\OneDrive\\Desktop\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {}
+    "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javie\\OneDrive\\Desktop\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {
+    "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javie\\OneDrive\\Desktop\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
+        "projectUniqueName": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
         "projectName": "UniTalents-BackEnd-AW",
-        "projectPath": "C:\\Users\\javie\\OneDrive\\Desktop\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
+        "projectPath": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW.csproj",
         "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javie\\OneDrive\\Desktop\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\UniTalents-BackEnd-AW\\obj\\",
+        "outputPath": "C:\\Users\\javie\\OneDrive\\Documents\\GitHub\\UniTalents-BackEnd-App-Web\\UniTalents-BackEnd-AW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config"
