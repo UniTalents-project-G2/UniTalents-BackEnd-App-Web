@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniTalents-BackEnd-AW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432bd2f2715e99fa6e2f2187323b2ca710aa38a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4316d0957a8392902697cf46cc5127ee942272e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniTalents-BackEnd-AW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniTalents-BackEnd-AW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
