@@ -1,0 +1,6 @@
+@UniTalents_BackEnd_AW_HostAddress = http://localhost:5069
+
+GET {{UniTalents_BackEnd_AW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
